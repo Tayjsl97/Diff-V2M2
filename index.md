@@ -2,14 +2,17 @@
 layout: default
 title: "Diff-V2M: A Hierarchical Conditional Diffusion Model with Explicit Rhythmic Modeling for Video-to-Music Generation"
 description: |
-  <a href="https://github.com/Tayjsl97" target="_blank">Shulei Ji</a>, 
-  <a href="https://github.com/zihaowang97" target="_blank">Zihao Wang</a>, 
-  <a href="https://github.com/jiaxingyu" target="_blank">Jiaxing Yu</a>, 
-  <a href="https://github.com/xiangyuanyang" target="_blank">Xiangyuan Yang</a>, 
-  <a href="https://github.com/shuyuli" target="_blank">Shuyu Li</a>, 
-  <a href="https://github.com/songruoyaowu" target="_blank">Songruoyao Wu</a>, 
-  <a href="https://github.com/kejunzhang" target="_blank">Kejun Zhang</a><br>
-  Zhejiang University
+  <a href="https://github.com/Tayjsl97" target="_blank" style="color:white;">Shulei Ji<sup>1,2</sup></a>, 
+  <a href="https://github.com/zihaowang97" target="_blank" style="color:white;">Zihao Wang<sup>1,3</sup></a>, 
+  <a href="https://github.com/jiaxingyu" target="_blank" style="color:white;">Jiaxing Yu<sup>1</sup></a>, 
+  <a href="https://github.com/xiangyuanyang" target="_blank" style="color:white;">Xiangyuan Yang<sup>4</sup></a>, 
+  <a href="https://github.com/shuyuli" target="_blank" style="color:white;">Shuyu Li<sup>1</sup></a>, 
+  <a href="https://github.com/songruoyaowu" target="_blank" style="color:white;">Songruoyao Wu<sup>1</sup></a>, 
+  <a href="https://github.com/kejunzhang" target="_blank" style="color:white;">Kejun Zhang<sup>1,2*</sup></a><br>
+  <sup>1</sup> Zhejiang University<br>
+  <sup>2</sup> Innovation Center of Yangtze River Delta, Zhejiang University<br>
+  <sup>3</sup> Carnegie Mellon University<br>
+  <sup>4</sup> Xi'an Jiaotong University<br>
 ---
 <style>
 /* 修改页面主标题字体大小 */
