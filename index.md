@@ -2,13 +2,13 @@
 layout: default
 title: "Diff-V2M: A Hierarchical Conditional Diffusion Model with Explicit Rhythmic Modeling for Video-to-Music Generation"
 description: |
-  <a href="https://github.com/Tayjsl97" target="_blank" style="color:white;">Shulei Ji<sup>1,2</sup></a>, 
-  <a href="https://github.com/zihaowang97" target="_blank" style="color:white;">Zihao Wang<sup>1,3</sup></a>, 
-  <a href="https://github.com/jiaxingyu" target="_blank" style="color:white;">Jiaxing Yu<sup>1</sup></a>, 
-  <a href="https://github.com/xiangyuanyang" target="_blank" style="color:white;">Xiangyuan Yang<sup>4</sup></a>, 
-  <a href="https://github.com/shuyuli" target="_blank" style="color:white;">Shuyu Li<sup>1</sup></a>, 
-  <a href="https://github.com/songruoyaowu" target="_blank" style="color:white;">Songruoyao Wu<sup>1</sup></a>, 
-  <a href="https://github.com/kejunzhang" target="_blank" style="color:white;">Kejun Zhang<sup>1,2*</sup></a><br>
+  <a href="https://tayjsl97.github.io/" target="_blank" style="color:white;">Shulei Ji<sup>1,2</sup></a>, 
+  <a href="https://www.next.zju.edu.cn/team/wang-zihao" target="_blank" style="color:white;">Zihao Wang<sup>1,3</sup></a>, 
+  <a href="https://www.next.zju.edu.cn/team/yu-jiaxing" target="_blank" style="color:white;">Jiaxing Yu<sup>1</sup></a>, 
+  <a href="" target="_blank" style="color:white;">Xiangyuan Yang<sup>4</sup></a>, 
+  <a href="https://www.next.zju.edu.cn/team/li-shuyu" target="_blank" style="color:white;">Shuyu Li<sup>1</sup></a>, 
+  <a href="https://www.next.zju.edu.cn/team/wu-songruoyao" target="_blank" style="color:white;">Songruoyao Wu<sup>1</sup></a>, 
+  <a href="https://www.next.zju.edu.cn/team/zhang-kejun" target="_blank" style="color:white;">Kejun Zhang<sup>1,2*</sup></a><br>
   <sup>1</sup> Zhejiang University<br>
   <sup>2</sup> Innovation Center of Yangtze River Delta, Zhejiang University<br>
   <sup>3</sup> Carnegie Mellon University<br>
